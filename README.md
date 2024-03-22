@@ -25,14 +25,14 @@ Because it was collected from various locations, the different files have differ
 
 ### Results
 Results on the most popular type of genre
-[text](blob:vscode-webview%3A//091mek6iqrvu0ifqovokkigj5mhgm1ds2m3g6mk3g1n175hu5tks/bcddb1f9-c47b-4f68-8ab4-d40fbc982249)
+![alt text](image-3.png)
 
 Results on the most profitable genre
 There is a positive correlation between production budget and worldwide grss.I would recommend Microsft to budget for genres that require high budget
 
-[text](blob:vscode-webview%3A//091mek6iqrvu0ifqovokkigj5mhgm1ds2m3g6mk3g1n175hu5tks/20ee06bd-4eb3-4388-8790-05f9dbaf1177)
+![alt text](image-4.png)
 
-Results on the most rated movie genres[text](blob:vscode-webview%3A//091mek6iqrvu0ifqovokkigj5mhgm1ds2m3g6mk3g1n175hu5tks/00aad64c-c117-4f59-b322-d8061b5e879c)
+![alt text](image-5.png)
 
 
 
